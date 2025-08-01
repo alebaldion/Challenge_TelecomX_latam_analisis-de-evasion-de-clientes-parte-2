@@ -45,25 +45,11 @@ El análisis reveló que los principales impulsores de la cancelación son:
 
 Para ejecutar el notebook `Telecom_X_Modelado_Churn.ipynb` y replicar el análisis, sigue estos pasos:
 
-1.  **Clona el repositorio:**
+1.  **Clona el repositorio**
 
-    ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
-    ```
+2.  **Instala las bibliotecas necesarias**
+    
+3.  **Ejecuta Notebook**
 
-2.  **Instala las bibliotecas necesarias:**
-    Asegúrate de tener un entorno de Python (3.7+) y luego instala las dependencias.
 
-    ```bash
-    pip install pandas numpy scikit-learn seaborn matplotlib imbalanced-learn
-    ```
-
-3.  **Ejecuta Notebook:**
-    Inicia el servidor en tu terminal.
-
-    ```bash
-  Abre el archivo .ipynb en Google Colab o Jupyter Notebook.
-    ```
-
-    Luego, abre el archivo `Telecom_X_Modelado_Churn.ipynb` en tu navegador y ejecuta las celdas en orden. Los datos se cargarán directamente desde el archivo `telecomx_datos_tratados.csv` incluido en el repositorio.
+    Luego, abre el archivo `FINAL_Challenge_TelecomX_latam_analisis_de_evasion_de_clientes_parte_2` en tu navegador y ejecuta las celdas en orden. Los datos se cargarán directamente desde el archivo `telecomx_datos_tratados.csv` incluido en el repositorio.
