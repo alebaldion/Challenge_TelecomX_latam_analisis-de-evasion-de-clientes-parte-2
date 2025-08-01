@@ -63,7 +63,7 @@ Para ejecutar el notebook `Telecom_X_Modelado_Churn.ipynb` y replicar el anális
     Inicia el servidor en tu terminal.
 
     ```bash
-   Google colab
+  Abre el archivo .ipynb en Google Colab o Jupyter Notebook.
     ```
 
     Luego, abre el archivo `Telecom_X_Modelado_Churn.ipynb` en tu navegador y ejecuta las celdas en orden. Los datos se cargarán directamente desde el archivo `telecomx_datos_tratados.csv` incluido en el repositorio.
