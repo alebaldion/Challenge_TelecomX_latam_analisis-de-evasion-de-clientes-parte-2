@@ -43,13 +43,13 @@ El análisis reveló que los principales impulsores de la cancelación son:
 
 ## 🚀 Cómo Ejecutar el Cuaderno
 
-Para ejecutar el notebook `Telecom_X_Modelado_Churn.ipynb` y replicar el análisis, sigue estos pasos:
+Para ejecutar el notebook `FINAL_Challenge_TelecomX_latam_analisis_de_evasion_de_clientes_parte_2` y replicar el análisis, sigue estos pasos:
 
 1.  **Clona el repositorio**
 
-2.  **Instala las bibliotecas necesarias**
+2.  **Abre el archivo `FINAL_Challenge_TelecomX_latam_analisis_de_evasion_de_clientes_parte_2` en tu navegador**
     
-3.  **Ejecuta Notebook**
+3.  **Ejecuta las celdas en orden. Los datos se cargarán directamente desde el archivo `telecomx_datos_tratados.csv` incluido en el repositorio.**
 
 
-    Luego, abre el archivo `FINAL_Challenge_TelecomX_latam_analisis_de_evasion_de_clientes_parte_2` en tu navegador y ejecuta las celdas en orden. Los datos se cargarán directamente desde el archivo `telecomx_datos_tratados.csv` incluido en el repositorio.
+ 
