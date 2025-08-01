@@ -59,11 +59,11 @@ Para ejecutar el notebook `Telecom_X_Modelado_Churn.ipynb` y replicar el anális
     pip install pandas numpy scikit-learn seaborn matplotlib imbalanced-learn
     ```
 
-3.  **Ejecuta Jupyter Notebook:**
-    Inicia el servidor de Jupyter en tu terminal.
+3.  **Ejecuta Notebook:**
+    Inicia el servidor en tu terminal.
 
     ```bash
-    jupyter notebook
+   Google colab
     ```
 
     Luego, abre el archivo `Telecom_X_Modelado_Churn.ipynb` en tu navegador y ejecuta las celdas en orden. Los datos se cargarán directamente desde el archivo `telecomx_datos_tratados.csv` incluido en el repositorio.
